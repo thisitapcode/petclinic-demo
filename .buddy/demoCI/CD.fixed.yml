@@ -3,6 +3,5 @@
   refs:
   - refs/heads/main
   events:
-  - type: WEBHOOK
   - type: PUSH
   fail_on_prepare_env_warning: true
